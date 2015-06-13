@@ -8,4 +8,4 @@ svgEditor.addExtension("collabWhiteboardClient", function(methods) {
             console.log(elems)
         }
     }
-}
+});
